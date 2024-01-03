@@ -1,0 +1,337 @@
+{
+  "cities": [
+    {
+      "value": "nairobi",
+      "label": "Nairobi",
+      "county": "Nairobi City",
+      "countyNumber": 47
+    },
+    {
+      "value": "mombasa",
+      "label": "Mombasa",
+      "county": "Mombasa",
+      "countyNumber": 1
+    },
+    {
+      "value": "kisumu",
+      "label": "Kisumu",
+      "county": "Kisumu",
+      "countyNumber": 42
+    },
+    {
+      "value": "nakuru",
+      "label": "Nakuru",
+      "county": "Nakuru",
+      "countyNumber": 32
+    },
+    {
+      "value": "eldoret",
+      "label": "Eldoret",
+      "county": "Uasin Gishu",
+      "countyNumber": 27
+    },
+    {
+      "value": "thika",
+      "label": "Thika",
+      "county": "Kiambu",
+      "countyNumber": 22
+    },
+    {
+      "value": "malindi",
+      "label": "Malindi",
+      "county": "Kilifi",
+      "countyNumber": 3
+    },
+    {
+      "value": "kitale",
+      "label": "Kitale",
+      "county": "Trans Nzoia",
+      "countyNumber": 26
+    },
+    {
+      "value": "kakamega",
+      "label": "Kakamega",
+      "county": "Kakamega",
+      "countyNumber": 37
+    },
+    {
+      "value": "nyeri",
+      "label": "Nyeri",
+      "county": "Nyeri",
+      "countyNumber": 19
+    },
+    { "value": "meru", "label": "Meru", "county": "Meru", "countyNumber": 12 },
+    {
+      "value": "kilifi",
+      "label": "Kilifi",
+      "county": "Kilifi",
+      "countyNumber": 3
+    },
+    {
+      "value": "garissa",
+      "label": "Garissa",
+      "county": "Garissa",
+      "countyNumber": 7
+    },
+    {
+      "value": "nanyuki",
+      "label": "Nanyuki",
+      "county": "Laikipia",
+      "countyNumber": 31
+    },
+    {
+      "value": "machakos",
+      "label": "Machakos",
+      "county": "Machakos",
+      "countyNumber": 16
+    },
+    {
+      "value": "kisii",
+      "label": "Kisii",
+      "county": "Kisii",
+      "countyNumber": 45
+    },
+    {
+      "value": "bungoma",
+      "label": "Bungoma",
+      "county": "Bungoma",
+      "countyNumber": 39
+    },
+    { "value": "lamu", "label": "Lamu", "county": "Lamu", "countyNumber": 5 },
+    {
+      "value": "kericho",
+      "label": "Kericho",
+      "county": "Kericho",
+      "countyNumber": 35
+    },
+    {
+      "value": "voi",
+      "label": "Voi",
+      "county": "Taita-Taveta",
+      "countyNumber": 6
+    },
+    {
+      "value": "marsabit",
+      "label": "Marsabit",
+      "county": "Marsabit",
+      "countyNumber": 10
+    },
+    {
+      "value": "kiambu",
+      "label": "Kiambu",
+      "county": "Kiambu",
+      "countyNumber": 22
+    },
+    {
+      "value": "kajiado",
+      "label": "Kajiado",
+      "county": "Kajiado",
+      "countyNumber": 30
+    },
+    {
+      "value": "kabarnet",
+      "label": "Kabarnet",
+      "county": "Baringo",
+      "countyNumber": 30
+    },
+    {
+      "value": "moyale",
+      "label": "Moyale",
+      "county": "Marsabit",
+      "countyNumber": 10
+    },
+    {
+      "value": "lodwar",
+      "label": "Lodwar",
+      "county": "Turkana",
+      "countyNumber": 23
+    },
+    {
+      "value": "homabay",
+      "label": "Homa Bay",
+      "county": "Homa Bay",
+      "countyNumber": 43
+    },
+    {
+      "value": "migori",
+      "label": "Migori",
+      "county": "Migori",
+      "countyNumber": 44
+    },
+    {
+      "value": "isiolo",
+      "label": "Isiolo",
+      "county": "Isiolo",
+      "countyNumber": 11
+    },
+    {
+      "value": "kitui",
+      "label": "Kitui",
+      "county": "Kitui",
+      "countyNumber": 15
+    },
+    {
+      "value": "webuye",
+      "label": "Webuye",
+      "county": "Bungoma",
+      "countyNumber": 39
+    },
+    {
+      "value": "wajir",
+      "label": "Wajir",
+      "county": "Wajir",
+      "countyNumber": 8
+    },
+    {
+      "value": "mandera",
+      "label": "Mandera",
+      "county": "Mandera",
+      "countyNumber": 9
+    },
+    {
+      "value": "siaya",
+      "label": "Siaya",
+      "county": "Siaya",
+      "countyNumber": 41
+    },
+    { "value": "embu", "label": "Embu", "county": "Embu", "countyNumber": 14 },
+    {
+      "value": "kakuma",
+      "label": "Kakuma",
+      "county": "Turkana",
+      "countyNumber": 23
+    },
+    {
+      "value": "kapenguria",
+      "label": "Kapenguria",
+      "county": "West Pokot",
+      "countyNumber": 24
+    },
+    {
+      "value": "naivasha",
+      "label": "Naivasha",
+      "county": "Nakuru",
+      "countyNumber": 32
+    },
+    {
+      "value": "narok",
+      "label": "Narok",
+      "county": "Narok",
+      "countyNumber": 33
+    },
+    {
+      "value": "kerugoya",
+      "label": "Kerugoya",
+      "county": "Kirinyaga",
+      "countyNumber": 20
+    },
+    {
+      "value": "mumias",
+      "label": "Mumias",
+      "county": "Kakamega",
+      "countyNumber": 37
+    },
+    {
+      "value": "busia",
+      "label": "Busia",
+      "county": "Busia",
+      "countyNumber": 40
+    },
+    {
+      "value": "runyenjes",
+      "label": "Runyenjes",
+      "county": "Embu",
+      "countyNumber": 14
+    },
+    {
+      "value": "molo",
+      "label": "Molo",
+      "county": "Nakuru",
+      "countyNumber": 32
+    },
+    {
+      "value": "ngong",
+      "label": "Ngong",
+      "county": "Kajiado",
+      "countyNumber": 30
+    },
+    {
+      "value": "watamu",
+      "label": "Watamu",
+      "county": "Kilifi",
+      "countyNumber": 3
+    },
+    {
+      "value": "nyahururu",
+      "label": "Nyahururu",
+      "county": "Laikipia",
+      "countyNumber": 31
+    },
+    {
+      "value": "ol-kalou",
+      "label": "Ol Kalou",
+      "county": "Nyandarua",
+      "countyNumber": 18
+    },
+    {
+      "value": "sagana",
+      "label": "Sagana",
+      "county": "Kirinyaga",
+      "countyNumber": 20
+    },
+    {
+      "value": "taveta",
+      "label": "Taveta",
+      "county": "Taita-Taveta",
+      "countyNumber": 6
+    },
+    {
+      "value": "oyugis",
+      "label": "Oyugis",
+      "county": "Homa Bay",
+      "countyNumber": 43
+    },
+    {
+      "value": "maralal",
+      "label": "Maralal",
+      "county": "Samburu",
+      "countyNumber": 25
+    },
+    {
+      "value": "chuka",
+      "label": "Chuka",
+      "county": "Tharaka-Nithi",
+      "countyNumber": 13
+    },
+    {
+      "value": "awendo",
+      "label": "Awendo",
+      "county": "Migori",
+      "countyNumber": 44
+    },
+    {
+      "value": "mwingi",
+      "label": "Mwingi",
+      "county": "Kitui",
+      "countyNumber": 15
+    },
+    {
+      "value": "butere",
+      "label": "Butere",
+      "county": "Kakamega",
+      "countyNumber": 37
+    },
+    {
+      "value": "eldama-ravine",
+      "label": "Eldama Ravine",
+      "county": "Baringo",
+      "countyNumber": 30
+    },
+    {
+      "value": "voihomabay",
+      "label": "Voi Homa Bay",
+      "county": "Taita-Taveta",
+      "countyNumber": 6
+    }
+  ]
+}
